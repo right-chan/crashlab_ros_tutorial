@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="tutorial_package" type="pub_node" name="pub_node1"/>
+	<node pkg="tutorial_package" type="sub_node" name="sub_node1"/>
+	<node pkg="tutorial_package" type="pub_node" name="pub_node2"/>
+	<node pkg="tutorial_package" type="sub_node" name="sub_node2"/>
+</launch>
