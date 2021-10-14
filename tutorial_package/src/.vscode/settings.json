@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/chan/catkin_workspace/install/lib/python3/dist-packages",
+        "/home/chan/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
